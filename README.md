@@ -48,7 +48,7 @@ The main objectives of this project are:
 
 ## Authors
 
-- Your Name  
-- Additional Author (if any)
+- Łukasz Obrzut  
+- Mateusz Mglej
 
 ---
