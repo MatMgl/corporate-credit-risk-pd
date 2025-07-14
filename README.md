@@ -41,14 +41,16 @@ The main objectives of this project are:
 
 ## Additional Resources
 
-- [Full Project Report (PDF)](./full_project_report.pdf)  
-- [Project Presentation (PDF)](./project_presentation.pdf)
+- [Full Project Report (PDF)](./modeling_market_risk_report.pdf)  
+- [Project Presentation (PDF)](./modeling_market_risk__presentation.pdf)
 
 ---
 
 ## Authors
 
-- Łukasz Obrzut  
 - Mateusz Mglej
+- Łukasz Obrzut
+- Dominik Sobczyk
+- Faustyna Święch  
 
 ---
